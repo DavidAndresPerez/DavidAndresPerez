@@ -10,4 +10,4 @@
 
 ## 👨‍💻 Sobre mí
 Estudie Desarrollo de aplicaciones multiplataforma.
-Desarrollador Junior enfocado en el sector android y escritorio, cuento con conocimientos sobre front con el uso de html y css
+Desarrollador enfocado en el sector android y escritorio, cuento con conocimientos sobre front con el uso de html y css
